@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/trujamal?label=Follow&style=social)](https://github.com/trujamal)
 ![](https://visitor-badge.laobi.icu/badge?page_id=trujamal)
 ***
-I'm Jamal Rasool, and I love nurturing great ideas into beautiful, functional, and profitable digital products. For over 7 years I’ve had the pleasure to work with agencies, start-ups and other companies across the globe on a wide range of projects — from the mobile UI/UX for an restaurant reservation system, to App Store featured mobile apps. Most recently I have been making great strides in building my personal startup Veve with currently 15+ employees. Along with that I'm a iOS developer currently working at Experian
+I'm Jamal Rasool, and I love nurturing great ideas into beautiful, functional, and profitable digital products. For over 7 years I’ve had the pleasure to work with agencies, start-ups and other companies across the globe on a wide range of projects — from the mobile UI/UX for an restaurant reservation system, to App Store featured mobile apps. Most recently I have created a new startup from Veve called Minuteboo which has been a rebranding venture. Along with that I'm a iOS developer currently working at Apple.
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
